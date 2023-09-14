@@ -124,7 +124,7 @@ class App extends Component {
                                 return (
                                   <div key = {index} > 
                                     <ListGroup.Item
-                                        variant="dark"
+                                        variant="blue"
                                         action
                                         style={{display:"flex",
                                                 justifyContent:'space-between'
